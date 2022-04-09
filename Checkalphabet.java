@@ -16,10 +16,10 @@ class Checkalphabet{
 
 if(letter ==letter1 || letter == letter2 || letter == letter3 || letter == letter4 || letter == letter5)
 {
-	System.out.println(letter + " is a consonant");
+	System.out.println(letter + " is a vowel");
 }
 else{
-	System.out.println(letter + " is not a consonant");
+	System.out.println(letter + " is a consonant");
 }
 	
 }
